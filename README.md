@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @puzzleti
 - 👀 I’m interested in java development and softwarearchitecture
-- 🌱 I’m currently learning microservices (with quarkus) and cloud solutions
+- 🌱 I’m currently in microservices (with quarkus) and cloud solutions
 - 📫 How to reach me via linkedin or xing
 
 <!---
